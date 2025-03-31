@@ -1,0 +1,93 @@
+objectid;region;posicion;sistema_vo;tipo_volca;clasificac;total_fact;total_ries;latitud;longitud;cod_epsg
+1;sin dato;1;Villarrica;I;Estratovolcán;18,93246154;435,4466154;-39,42;-71,939;4326
+2;La Araucanía;2;Llaima;I;Estratovolcán;17,28541247;380,2790744;-38,694;-71,733;-999
+3;Los Lagos;3;Calbuco;I;-999;15,96371684;335,2380536;-41,329;-72,614;4326
+4;Ñuble;4;Nevados de Chillán;I;Complejo;16,09880017;305,8772033;-36,871;-71,368;4326
+5;Los Lagos;5;Puyehue-Cordón Caulle;I;Complejo;14,11817689;296,4817148;-40,585;-72,112;4326
+6;Los Lagos;6;Osorno;I;Estratovolcán;14,40062653;295,2128439;-41,102;-72,499;4326
+7;Los Lagos;7;Mocho-Choshuenco;I;Complejo;14,56433573;276,7223789;-39,93;-72,03;4326
+8;Biobío;8;Antuco;I;Estratovolcán;14,14397366;268,7354996;-37,41;-71,351;4326
+9;Los Lagos;9;Carrán-Los Venados;I;Campo volcánico;16,08549833;265,4107225;-40,366;-72,073;4326
+10;-999;10;Cerro Azul-Quizapu;I;Complejo;12,5;262,5069377;-35,654;-70,759;4326
+11;Los Lagos;11;Chaitén;I;Complejo de domos;12,79164305;255,8328609;-42,837;-72,65;4326
+12;La Araucanía;12;Lonquimay;I;Estratovolcán;14,91933411;238,7093458;-38,379;-71,589;4326
+13;Aysén del General Carlos Ibáñez del Campo;13;Hudson;I;Caldera;10,23544773;214,9444024;-45,9;-72,97;-999
+14;Antofagasta;14;Láscar;I;Estratovolcán;10,05253912;165,8668955;-23,363;-67,731;4326
+15;Los Lagos;15;Michinmahuida;II;Estratovolcán;11,93003;202,81051;-42,798;-72,445;4326
+16;Los Lagos;16;Yate;II;Estratovolcán;15,5974172;202,7664237;-41,759;-72,4;4326
+17;La Araucanía;17;Sollipulli;II;Caldera;14,41264262;201,7769967;-38,977;-71,519;4326
+18;Biobío;18;Copahue;II;Estratovolcán;11,71134418;199,0928511;-37,85;-71,17;4326
+19;Maule;19;Grupo Descabezado Grande;II;Complejo;9,05103371;185,5461911;-35,586;-70,751;4326
+20;Biobío;20;Callaqui;II;Complejo;10,90122042;174,4195268;-37,926;-71,446;4326
+21;La Araucanía;21;Quetrupillán;II;Complejo;13,85433974;166,2520769;-39,498;-71,717;4326
+22;Tarapacá;22;Parinacota;II;Estratovolcán;11,4739116;160,6347624;-18,164;-69,143;4326
+23;Maule;23;Planchón - Peteroa;II;Complejo;9,00016815;157,5029427;-35,241;-70,574;-999
+24;Los Lagos;24;Hornopirén;II;Estratovolcán;15,56685378;155,6685378;-41,876;-72,431;4326
+25;La Araucanía;25;Lanín;II;Estratovolcán;9,90737593;sin dato;-39,639;-71,501;4326
+26;Los Lagos;26;Complejo Antillanca;II;Complejo;12,06203262;138,7133751;-40,776;-72,155;4326
+27;Maule;27;Laguna del Maule;II;Complejo;8,25075956;136,1375328;-36,058;-70,507;4326
+28;Aysén del General Carlos Ibáñez del Campo;28;Melimoyu;II;Estratovolcán;10,4127411;135,3656343;-44,072;-72,868;4326
+29;Metropolitana de Santiago;29;Tupungatito;II;Estratovolcán;9,38977076;122,0670199;-33,401;-69,802;4326
+30;-999;30;Guallatiri;II;Complejo;9,2817639;116,0220488;-18,423;-69,089;-999
+31;Metropolitana de Santiago;31;Maipo;III;Estratovolcán;10,40205999;135,2267799;-34,166;-69,828;4326
+32;Metropolitana de Santiago;32;San José;III;Estratovolcán;14,91946774;134,2752096;-33,79;-69,894;4326
+33;Los Lagos;33;Apagado o Huailahué;III;Cono;14,12566792;120,0681774;-41,884;-72,589;4326
+34;Los Lagos;34;Puntiagudo-Cordón Cenizos;III;Campo volcánico;10,26065065;117,9974825;-40,973;-72,269;4326
+35;Magallanes y de la Antártica Chilena;35;Isla Decepción;III;Caldera;6,35199862;114,3359752;-62,959;-60,637;4326
+36;Magallanes y de la Antártica Chilena;36;Monte Burney;III;Estratovolcán;7;108,5;-52,326;-73,379;4326
+37;Arica y Parinacota;37;Taapaca;III;Complejo;12,04567275;108,4110547;-18,112;-69,509;4326
+38;Los Lagos;38;Huequi;III;Complejo de domos;8,18399656;102,299957;-42,379;-72,579;4326
+39;Aysén del General Carlos Ibáñez del Campo;39;Mentolat;III;Estratovolcán;7,61108878;95,13860974;-44,695;-73,079;4326
+40;Maule;40;Nevado de Longaví;III;Estratovolcán;10,52769489;94,74925401;-36,199;-71,164;4326
+41;Antofagasta;41;San Pedro;III;Estratovolcán;8,27541336;91,02954692;-21,888;-68,391;4326
+42;Arica y Parinacota;42;Tacora;III;Estratovolcán;11,2884644;90,30771523;-17,721;-69,773;4326
+43;Magallanes y de la Antártica Chilena;43;Reclus;III;Cono de piroclastos;6,60646417;85,8840342;-50,936;-73,582;4326
+44;Aysén del General Carlos Ibáñez del Campo;44;Macá;III;Complejo;7,83080076;82,22340802;-45,104;-73,164;4326
+45;Los Lagos;45;Yanteles;III;Complejo;6,97334884;80,19351165;-43,5;-72,814;4326
+46;Valparaíso;46;Isla de Pascua;III;Escudo;12,5615834;75,36950041;-27,114;-109,367;4326
+47;Tarapacá;47;Irruputuncu;III;Estratovolcán;9,2081164;73,66493117;-20,732;-68,56;4326
+48;Los Lagos;48;Corcovado;III;Estratovolcán;4,68658032;51,55238354;-43,194;-72,794;4326
+49;Tarapacá;49;Olca-Paruma;III;Complejo;10,21156822;51,05784109;-20,942;-68,504;4326
+50;Aysén del General Carlos Ibáñez del Campo;50;Lautaro;III;Estratovolcán;3,22834886;32,28348857;-49,02;-73,506;4326
+51;Los Lagos;51;Fui;IV;sin dato;9,0353118;90,35311797;-39,901;-71,928;4326
+52;Maule;52;Tatara-San Pedro;IV;Estratovolcán;9,48082916;85,32746243;-35,992;-70,855;4326
+53;Los Lagos;53;Cayutue-Ralún- Viguería;IV;Campo volcánico;8,60497866;77,44480795;-41,253;-72,28;4326
+54;La Araucanía;54;Tolhuaca;IV;Estratovolcán;8,91943176;71,35545404;-38,314;-71,646;4326
+55;Aysén del General Carlos Ibáñez del Campo;55;Grupo Volcánico Aysén;IV;Grupo volcánico;7,50138908;71,2631963;-45,371;-73,0757;4326
+56;Libertador General Bernardo O'Higgins;56;Tinguiririca;IV;Estratovolcán;7,81176184;70,30585657;-34,817;-70,34;4326
+57;Antofagasta;57;Socompa;IV;Estratovolcán;8,08289858;64,66318861;-24,396;-68,246;4326
+58;Aysén del General Carlos Ibáñez del Campo;58;Grupo Puyuhuapi;IV;Campo volcánico;9,00235751;63,01650254;-44,3;-72,534;4326
+59;Tarapacá;59;Isluga;IV;Complejo;6,99563519;62,96071675;-19,155;-68,82;4326
+60;Antofagasta;60;Ollagüe;IV;Estratovolcán;8,82780143;61,79460998;-21,306;-68,18;4326
+61;Aysén del General Carlos Ibáñez del Campo;61;Alto Palena;IV;Campo volcánico;6,57112476;55,85456046;-43,65;-72,35;4326
+62;La Araucanía;62;Grupo Caburgua;IV;Grupo volcánico;8,89435938;53,36615626;-39,265;-71,729;4326
+63;Los Lagos;63;Barranco Colorado;IV;Estratovolcán;5,8245953;52,42135768;-42,399421;-72,481686;4326
+64;Antofagasta;64;Lastarria;IV;Complejo volcánico;4,12481607;39,18575269;-25,168;-68,507;4326
+65;Aysén del General Carlos Ibáñez del Campo;65;Cay;IV;Estratovolcán;4,2916908;34,33352637;-45,058;-72,988;4326
+66;Magallanes y de la Antártica Chilena;66;Grupo Pali-Aike;IV;Campo volcánico;5,0374265;32,74327224;-52;-70,1;4326
+67;Libertador General Bernardo O'Higgins;67;Palomo;IV;Estratovolcán;6,44090908;32,20454541;-34,613;-70,302;4326
+68;Magallanes y de la Antártica Chilena;68;Aguilera;IV;Estratovolcán;3,38214286;30,43928571;-50,33;-73,75;4326
+69;Antofagasta;69;Licancabur;IV;Estratovolcán;8,69495721;26,08487164;-22,834;-67,884;4326
+70;Antofagasta;70;Aucanquilcha;IV;Complejo;6;24;-21,221;-68,469;4326
+71;Magallanes y de la Antártica Chilena;71;Fueguino o Cook;IV;Complejo de domos;4,19891846;20,99459228;-54,95;-70,25;4326
+72;Maule;72;Descabezado Chico;IV;Complejo;4,10670237;20,53351183;-35,515;-70,62;4326
+73;Maule;73;Cerro del Medio;IV;Complejo;4,10670237;20,53351183;-35,57;-70,5;4326
+74;Antofagasta;74;Colachi;V;Estratovolcán;3;15;-23,241;-67,646;4326
+75;Atacama;75;Ojos del Salado;V;Complejo;3;15;-27,11;-68,541;4326
+76;Antofagasta;76;Apacheta-Aguilucho;V;Complejo;3,66275783;14,65103133;-21,829;-68,202;4326
+77;Antofagasta;77;Escalante-Sairecabur;V;Complejo;3,62324929;14,49299716;-22,719;-67,891;4326
+78;Antofagasta;78;Putana;V;Estratovolcán;2;12;-22,557;-67,853;4326
+79;Antofagasta;79;Chascón  (Purico );V;Complejo de domos;3;12;-23,011;-67,688;4326
+80;Antofagasta;80;sin dato;V;Complejo;4;12;-23,744;-67,54;4326
+81;Antofagasta;81;Púlar-Pajonales;V;Complejo;3;12;-24,2;-68,066;4326
+82;Atacama;82;Nevado Tres Cruces;V;Complejo;3;12;-27,098;-68,778;4326
+83;Antofagasta;83;Chiliques;V;Complejo;3;9;-23,578;-67,701;4326
+84;Antofagasta;84;Caichinque;V;Estratovolcán;3;9;-23,949;-67,74;4326
+85;Atacama;85;Nevado de Incahuasi;V;Complejo;3;9;-27,034;-68,296;4326
+86;Los Lagos;86;Palvitad;V;Campo volcánico;2,2100163;8,84006519;-43,11;-72,75;4326
+87;Antofagasta;87;Acamarachi;V;Estratovolcán;2;6;-23,292;-67,618;4326
+88;Antofagasta;88;Llullaillaco;V;Estratovolcán;1;6;-24,72;-68,537;4326
+89;Antofagasta;89;Alítar;V;Maar;2;4;-23,148;-67,655;4326
+90;Atacama;90;Cerro Bayo;V;Complejo;1;3;-25,414;-68,588;4326
+91;Antofagasta;91;Cordón del Azufre;V;Complejo;0;0;-25,336;-68,522;4326
+92;sin dato;92;Sierra Nevada;V;Complejo;0;0;-26,481;-68,58;4326
